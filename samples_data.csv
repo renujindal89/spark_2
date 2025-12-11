@@ -1,0 +1,11 @@
+id,name,age,gender,salary,join_date,department,score
+1,Alice,25.0,F,50000.0,2021-05-10,Sales,88.0
+2,Bob,30.0,M,62000.0,2020/03/15,HR,92.0
+3,Charlie,,M,58000.0,15-07-2019,IT,79.0
+4,david,45.0,male,,IT,,
+5,Eve,-3.0,F,72000.0,2022-13-01,,65.0
+5,Eve,200.0,,1000000.0,2018-11-20,Finance,300.0
+7,Frank,33.0,M,54000.0,wrong_date,finance,73.0
+8,,29.0,FEMALE,51000.0,2021-09-01,Sales,85.0
+9, Grace ,,F,49000.0,2020/12/01,SALES,90.0
+10,Henry,41.0,Unknown,,2017-05-05,IT,82.0
